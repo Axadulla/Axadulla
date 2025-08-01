@@ -43,6 +43,6 @@ I enjoy exploring backend architecture, clean code practices, and modern develop
 
 ## 📬 Let’s Connect
 
-🔗 [LinkedIn](https://www.linkedin.com/in/ahadullaabduxamidov/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/axadullaabduxamidov/)  
 💬 Telegram: [@axadulla_1](https://t.me/axadulla_1)  
 ✉️ Email: ahadullaa5@gmail.com
