@@ -7,7 +7,7 @@ Building web applications with clean code, solid architecture, and real passion 
 ## 👨‍💻 About Me
 
 👋 Hi, I’m Axadulla — a backend developer focused on PHP and Symfony.  
-I recently completed a 2-month internship at [Itransition](https://itransition.com), where I built my first full-stack project and worked on real-world business logic.  
+I completed a 2-month internship at [Itransition](https://itransition.com), where I built my first full-stack project and worked on real-world business logic.  
 🔗 [My project](https://github.com/Axadulla/course-project-3)
 
 I enjoy exploring backend architecture, clean code practices, and modern development tools.
