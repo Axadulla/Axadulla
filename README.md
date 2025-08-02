@@ -1,4 +1,4 @@
-# 💻 Backend Developer | PHP & Symfony
+# 💻 Backend Developer | Software Engineer | PHP & Symfony
 
 Building web applications with clean code, solid architecture, and real passion for backend development.
 
