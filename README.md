@@ -11,7 +11,7 @@ I completed a 2-month internship at [Itransition](https://itransition.com), wher
 🔗 [My project](https://github.com/Axadulla/course-project-3)
 
 I enjoy exploring backend architecture, clean code practices, and modern development tools.
-
+ 
 ---
 
 ## 🛠️ Tech Stack
