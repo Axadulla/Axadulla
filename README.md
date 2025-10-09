@@ -8,4 +8,5 @@ Building web applications with clean code, solid architecture, and real passion 
 
 🔗 [LinkedIn](https://www.linkedin.com/in/axadullaabduxamidov/)  
 💬 Telegram: [@axadulla_1](https://t.me/axadulla_1)  
+💬 Telegram channel: [Axadulla's devLog](https://t.me/AxadullaDevLog)  
 ✉️ Email: ahadullaa5@gmail.com
